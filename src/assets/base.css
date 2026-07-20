@@ -1,0 +1,59 @@
+:root {
+  --vt-c-light: #f5f2ed;
+  --vt-c-medium: #f5e8db;
+  --vt-c-medium-dark: #331a0d;
+  --vt-c-dark: #0d1e21;
+  --vt-c-light-highlight: #d2ded6;
+  --vt-c-highlight: #407157;
+
+  --vt-c-transparent: hsla(151, 36%, 61%, 0.2);
+
+  --vt-c-divider: rgba(60, 60, 60, 0.12);
+}
+
+/* semantic variables for this project */
+:root {
+  --color-background: var(--vt-c-light-highlight);
+  --color-background-alt: var(--vt-c-light);
+  --color-background-overlay: var(--vt-c-dark);
+
+  --color-border: var(--vt-c-divider);
+  /*--color-border-hover: var(--vt-c-divider-light-1);*/
+
+  --color-button: var(--vt-c-highlight);
+  --color-announce: var(--vt-c-highlight);
+  --color-program: var(--vt-c-highlight);
+
+  --color-heading: var(--vt-c-dark);
+  --color-text: var(--vt-c-medium-dark);
+  --color-light-text: var(--vt-c-light);
+  --color-highlight: var(--vt-c-highlight);
+  --color-link: var(--vt-c-highlight);
+
+  --color-hover: var(--vt-c-transparent);
+
+  --border-radius: 0.75rem;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  font-weight: normal;
+}
+
+body {
+  min-height: 100vh;
+  color: var(--color-text);
+  background: var(--color-background);
+  transition:
+    color 0.5s,
+    background-color 0.5s;
+  line-height: 1.6;
+  font-family: "Archivo", "Helvetica Neue", sans-serif;
+  font-size: 16px;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

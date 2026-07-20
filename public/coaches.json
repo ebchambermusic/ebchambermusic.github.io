@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "timestamp": "2026-07-16T18:01:44.380Z",
+      "name": "Coach Example",
+      "pronouns": "She/Her",
+      "location": "Berkeley/Oakland",
+      "instruments": "Piano",
+      "emailAddress": "coach@example.com",
+      "phoneNumber": "012.345.6789",
+      "levelOfInstruction": "All levels",
+      "rate": "$XXX/hour",
+      "introduction": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam placerat lacinia rhoncus. Suspendisse elit massa, sodales quis leo quis, sagittis tempus magna. Vestibulum maximus justo convallis nisl pellentesque, nec aliquet sem rhoncus. Donec accumsan odio et commodo congue. Phasellus est lacus, dignissim sit amet ultricies ac, accumsan in leo. Phasellus aliquam sapien eu nibh mollis, non tincidunt libero elementum. Praesent consequat auctor ex. "
+    }
+  ],
+  "labels": {
+    "timestamp": "Timestamp",
+    "name": "Name",
+    "pronouns": "Pronouns",
+    "location": "Location",
+    "instruments": "Instrument(s)",
+    "emailAddress": "Email address",
+    "phoneNumber": "Phone number",
+    "levelOfInstruction": "Level of instruction",
+    "rate": "Rate",
+    "introduction": "Introduction"
+  }
+}

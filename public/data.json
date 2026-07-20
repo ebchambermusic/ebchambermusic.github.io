@@ -1,0 +1,128 @@
+{
+  "descriptions": {
+    "data": [
+      {
+        "home": "Welcome to East Bay Chamber Music! See below for details for the next performance and visit the information page to learn more about EBCM.",
+        "information": "East Bay Chamber Music (EBCM) is a volunteer-run group focused on facilitating amateur chamber music opportunities in the East Bay. There will be at least one set performance date per quarter that people can sign up for, but groups are encouraged to organize their own recitals and invite others to take part via EBCM announcements.\n\nEach group is responsible for managing their own rehearsals - choosing repertoire, renting space, hiring coaches (not required, but recommended!), and organizing schedules and logistics. In the future, this may change, depending on participation levels and interest.",
+        "members": "A directory of the musicians of EBCM. If you'd like to be added to this page, please fill out the form. This is optional - you can sign up for announcement emails by joining the Google Group without being listed here.\n\nFiltering and sorting options will be available soon!",
+        "coaches": "A directory of chamber music coaches in the area. If you are a coach who would like to be added to this page, please fill out the form. If you have a suggestion for a coach who isn't listed, email ebchambermusic@gmail.com with their contact information or send the form to the coach directly.",
+        "resources": "[Coming soon!] A collection of helpful resources and local recommendations.",
+        "contact": "You may send any inquiries to ebchambermusic@gmail.com. EBCM is run by volunteers so please allow time for replies. We welcome feedback and suggestions!",
+        "error": "Oops! Something's wrong. Click any of the links in the menu to be taken to the main site.\n\nIf you keep finding yourself here, please email ebchambermusic@gmail.com and provide any information about how you got to this error page."
+      }
+    ],
+    "labels": {
+      "home": "Home",
+      "information": "Information",
+      "members": "Members",
+      "coaches": "Coaches",
+      "resources": "Resources",
+      "contact": "Contact",
+      "error": "Error"
+    }
+  },
+  "announcements": {
+    "data": [
+      {
+        "eventId": "120626DC",
+        "name": "\"We Met At Crowden\"",
+        "date": "December 6, 2026",
+        "time": "3:30 - 6:30PM",
+        "venue": "Hillside Community Church\n1422 Navellier Street, El Cerrito, CA 94530",
+        "status": true,
+        "host": "Debbie Carton",
+        "contact": "dycarton@yahoo.com"
+      }
+    ],
+    "labels": {
+      "eventId": "Event ID",
+      "name": "Name",
+      "date": "Date",
+      "time": "Time",
+      "venue": "Venue",
+      "status": "Status",
+      "host": "Host",
+      "contact": "Contact"
+    }
+  },
+  "programs": {
+    "data": [
+      {
+        "eventId": "120626DC",
+        "piece": "Piano Trio, Op. XX, II. Andante",
+        "composer": "Composer Name #1",
+        "performers": "Violinist Name, violin\nCellist Name, cello\nPianist Name, piano "
+      },
+      {
+        "eventId": "120626DC",
+        "piece": "Example String Quartet",
+        "composer": "Composer Name #2",
+        "performers": "Violinist #1 Name, violin\nViolinist #2 Name, violin\nViolist Name, viola\nCellist Name, cello"
+      },
+      {
+        "eventId": "120626DC",
+        "piece": "Piano Quintet, etc.",
+        "composer": "Composer Name #3",
+        "performers": "Violinist #1 Name, violin\nViolinist #2 Name, violin\nViolist Name, viola\nCellist Name, cello\nPianist Name, piano"
+      },
+      {
+        "eventId": "120626DC",
+        "piece": "Piano Trio, etc.",
+        "composer": "Composer Name #4",
+        "performers": "Violinist Name, violin\nCellist Name, cello\nPianist Name, piano "
+      },
+      {
+        "eventId": "123456XX",
+        "piece": "Test Example Piece Next Program",
+        "composer": "Composer Name #5",
+        "performers": "Violinist #1 Name, violin\nViolinist #2 Name, violin\nViolist Name, viola\nCellist Name, cello"
+      }
+    ],
+    "labels": {
+      "eventId": "Event ID",
+      "piece": "Piece",
+      "composer": "Composer",
+      "performers": "Performers"
+    }
+  },
+  "questions": {
+    "data": [
+      {
+        "question": "How does this work?",
+        "answer": "After joining the mailing list, you'll receive announcement emails for upcoming performances, and whether the host is looking for additional performers to fill out a program. If so, their contact information will be available for you to discuss and organize directly with the host.\n\nWe encourage you to attend EBCM events to support other members, even if you're not playing!\n\nYou can also fill out a member profile (optional) to be listed on the site, and other people can reach out if they'd like to form a group or perhaps get together to sightread.\n\nIf you'd like to hire a coach for your group, please refer to the coaches directory to find someone who might be a good match. We suggest reaching out with your group's general availability for scheduling, the piece you'd like to work on, and how many sessions you'd like to book (we recommend 60 - 90 minutes per session). You may also want to ask their preferred method of payment."
+      },
+      {
+        "question": "Is there a fee to join?",
+        "answer": "No - joining and receiving updates is totally free.\n\nThe quarterly \"official\" EBCM-hosted recitals will be free to participants.\n\nFor other events, it will be up to the host whether you'll need to contribute something in order to perform (to cover rentals or other associated costs). Ideally, the fees will be split between all participants which should keep things reasonable!"
+      },
+      {
+        "question": "How do I join or sign up?",
+        "answer": "Click the link below to join the email list (a Google Group). If you have a Google account, you'll see a button near the top to \"Ask to join group\". Otherwise, you may need to email ebchambermusic@gmail.com to be added to the mailing list.\n\nTo sign up for a performance slot in a recital, you'll email the host/contact and go from there."
+      },
+      {
+        "question": "How do I get listed on the members page?",
+        "answer": "Click the link below to fill out a Google Form to get added to the list. Check the members page to see information about fellow musicians!"
+      },
+      {
+        "question": "Should my group hire a coach?",
+        "answer": "You don't have to, but you may find that it's helpful to get coach feedback before performing a piece.\n\nThe coaches in the directory on this site are all professionals who have specifically indicated that they'd like to be listed, and supporting them is just one way you can help foster a stronger local chamber music community."
+      },
+      {
+        "question": "Do I have to be located in the East Bay?",
+        "answer": "Not at all! However, most events will likely take place in Berkeley and the immediate surrounding area."
+      },
+      {
+        "question": "I'd like to host a performance. What do I do?",
+        "answer": "Fantastic! As a host, you'll be responsible for your own event (fees, logistics, etc.) but EBCM can send announcements to members on your behalf - either looking for more performers, or simply advertising the concert.\n\nYou can send program information as you receive it to ebchambermusic@gmail.com and we'll update the site's homepage accordingly."
+      },
+      {
+        "question": "I have more questions!",
+        "answer": "Send a message to ebchambermusic@gmail.com!"
+      }
+    ],
+    "labels": {
+      "question": "Question",
+      "answer": "Answer"
+    }
+  }
+}
