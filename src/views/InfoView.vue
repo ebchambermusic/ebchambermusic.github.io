@@ -73,9 +73,6 @@ onMounted(() => {
   transition: background-color 0.4s;
   padding: 1rem;
 }
-.question:hover {
-  background-color: var(--color-hover);
-}
 .open {
   background-color: var(--color-hover);
   border-radius: var(--border-radius) var(--border-radius) 0 0;
@@ -114,5 +111,11 @@ onMounted(() => {
 .animate-enter-to,
 .animate-leave-from {
   grid-template-rows: 1fr;
+}
+
+@media (hover: hover) {
+  .question:hover {
+    background-color: var(--color-hover);
+  }
 }
 </style>

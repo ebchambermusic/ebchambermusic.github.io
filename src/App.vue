@@ -91,9 +91,6 @@ nav a:first-of-type {
 nav a.router-link-exact-active {
   color: var(--color-text);
 }
-nav a.router-link-exact-active:hover {
-  background-color: transparent;
-}
 
 .view-wrapper {
   position: relative;
@@ -142,9 +139,6 @@ nav a.router-link-exact-active:hover {
     color: var(--color-highlight);
     z-index: 75;
   }
-  .toggle:hover {
-    background-color: var(--color-hover);
-  }
 
   nav {
     position: fixed;
@@ -167,6 +161,14 @@ nav a.router-link-exact-active:hover {
   nav a {
     padding: 0.5rem;
     margin: 0.5rem 0;
+  }
+}
+@media (hover: hover) {
+  nav a.router-link-exact-active:hover {
+    background-color: transparent;
+  }
+  .toggle:hover {
+    background-color: var(--color-hover);
   }
 }
 </style>
