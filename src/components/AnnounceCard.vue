@@ -70,7 +70,7 @@ onMounted(async () => {
       color-mix(in srgb, var(--color-background-overlay) 75%, transparent),
       color-mix(in srgb, var(--color-background-overlay) 75%, transparent)
     ),
-    url("/public/background.jpg") no-repeat center;
+    url("/background.jpg") no-repeat center;
   /* photo by yousef espanioly on unsplash: https://unsplash.com/photos/ovate-green-leaf-plant-hbQeCpo-Cp0 */
   background-size: cover;
   border-radius: var(--border-radius);
