@@ -11,6 +11,18 @@
       "levelOfInstruction": "All levels",
       "rate": "$XXX/hour",
       "introduction": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam placerat lacinia rhoncus. Suspendisse elit massa, sodales quis leo quis, sagittis tempus magna. Vestibulum maximus justo convallis nisl pellentesque, nec aliquet sem rhoncus. Donec accumsan odio et commodo congue. Phasellus est lacus, dignissim sit amet ultricies ac, accumsan in leo. Phasellus aliquam sapien eu nibh mollis, non tincidunt libero elementum. Praesent consequat auctor ex. "
+    },
+    {
+      "timestamp": "2026-07-22T01:53:50.513Z",
+      "name": "Phyllis Kamrin",
+      "pronouns": "",
+      "location": "Berkeley, Oakland, Albany, El Cerrito",
+      "instruments": "Violin, Viola, Piano",
+      "emailAddress": "almaduo@comcast.net",
+      "phoneNumber": "",
+      "levelOfInstruction": "Beginner, Beginner/Intermediate, Intermediate",
+      "rate": "$100 per hour per group; an hour and a half coaching would be $150 for the group.",
+      "introduction": "I graduated many years ago from the Curtis Institute of Music.  Since then I have played with many groups and organizations. Notably, I played with Philharmonia Baroque Orchestra, New Century Chamber Orchestra, and now have my musical home with the Left Coast Chamber Ensemble, where I perform both new and old chamber music. I love coaching less advanced ensembles as it is astounding to hear the progress throughout the sessions and into the performance!  I also ran the Crowden Adult Chamber Music program from 2014-2025 and watched it blossom into a wonderful community of musicians and coaches."
     }
   ],
   "labels": {
