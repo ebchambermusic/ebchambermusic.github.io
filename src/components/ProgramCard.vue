@@ -50,7 +50,7 @@ onMounted(async () => {
 }
 .program {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: 1fr 50px max-content;
   grid-template-rows: repeat(2, auto);
   height: 100%;
   margin-top: 2rem;
