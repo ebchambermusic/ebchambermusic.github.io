@@ -1,18 +1,6 @@
 {
   "data": [
     {
-      "timestamp": "2026-07-16T18:01:44.380Z",
-      "name": "Coach Example",
-      "pronouns": "She/Her",
-      "location": "Berkeley/Oakland",
-      "instruments": "Piano",
-      "emailAddress": "coach@example.com",
-      "phoneNumber": "012.345.6789",
-      "levelOfInstruction": "All levels",
-      "rate": "$XXX/hour",
-      "introduction": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam placerat lacinia rhoncus. Suspendisse elit massa, sodales quis leo quis, sagittis tempus magna. Vestibulum maximus justo convallis nisl pellentesque, nec aliquet sem rhoncus. Donec accumsan odio et commodo congue. Phasellus est lacus, dignissim sit amet ultricies ac, accumsan in leo. Phasellus aliquam sapien eu nibh mollis, non tincidunt libero elementum. Praesent consequat auctor ex. "
-    },
-    {
       "timestamp": "2026-07-22T01:53:50.513Z",
       "name": "Phyllis Kamrin",
       "pronouns": "",
@@ -23,6 +11,18 @@
       "levelOfInstruction": "Beginner, Beginner/Intermediate, Intermediate",
       "rate": "$100 per hour per group; an hour and a half coaching would be $150 for the group.",
       "introduction": "I graduated many years ago from the Curtis Institute of Music.  Since then I have played with many groups and organizations. Notably, I played with Philharmonia Baroque Orchestra, New Century Chamber Orchestra, and now have my musical home with the Left Coast Chamber Ensemble, where I perform both new and old chamber music. I love coaching less advanced ensembles as it is astounding to hear the progress throughout the sessions and into the performance!  I also ran the Crowden Adult Chamber Music program from 2014-2025 and watched it blossom into a wonderful community of musicians and coaches."
+    },
+    {
+      "timestamp": "2026-07-22T06:50:57.147Z",
+      "name": "Larry London",
+      "pronouns": "He/Him",
+      "location": "Berkeley ",
+      "instruments": "Woodwinds",
+      "emailAddress": "lawrencelondon@yahoo.com",
+      "phoneNumber": "510 409-2416",
+      "levelOfInstruction": "Intermediate/Advanced",
+      "rate": "$75/hr",
+      "introduction": "I have played clarinet in all the professional orchestras in the Bay Area, as well as in numerous chamber groups since 1971.  I am a composer and I can be heard on youtube playing my compositions in various chamber ensembles.  I specialize in the classical repertoire from Bach to the present.  https://www.youtube.com/watch?v=9rJT4JVbT34"
     }
   ],
   "labels": {

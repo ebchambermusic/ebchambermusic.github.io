@@ -49,27 +49,33 @@
     "data": [
       {
         "eventId": "120626DC",
-        "piece": "Piano Trio, Op. XX, II. Andante",
-        "composer": "Composer Name #1",
-        "performers": "Violinist Name, violin\nCellist Name, cello\nPianist Name, piano "
+        "piece": "Cuatro Estaciones Porteñas (The Four Seasons of Buenos Aires)\nII. Invierno Porteño (Winter)\nIII. Primavera Porteña (Spring)\nIV. Otoño Porteño (Autumn)",
+        "composer": "Astor Piazzolla",
+        "performers": "Eric Lee, violin\nAnne Cademenos, cello\nDebbit Carton, piano"
       },
       {
         "eventId": "120626DC",
-        "piece": "Example String Quartet",
-        "composer": "Composer Name #2",
-        "performers": "Violinist #1 Name, violin\nViolinist #2 Name, violin\nViolist Name, viola\nCellist Name, cello"
+        "piece": "Suite for Flute and Jazz Piano Trio\nII. Sentimentale\nVI. Versatile\nVII. Véloce",
+        "composer": "Claude Bolling",
+        "performers": "Flutist Name, flute\nBassist Name, bass\nPianist Name, piano "
       },
       {
         "eventId": "120626DC",
-        "piece": "Piano Quintet, etc.",
-        "composer": "Composer Name #3",
-        "performers": "Violinist #1 Name, violin\nViolinist #2 Name, violin\nViolist Name, viola\nCellist Name, cello\nPianist Name, piano"
+        "piece": "[Piece Name & Movements Placeholder]",
+        "composer": "Kenji Bunch",
+        "performers": "Caroline Danielson, violin\nCinnie Chou, violin\nClaire Simpson, viola\nSarah Holt, viola\nKatherine Mckenzie, cello"
       },
       {
         "eventId": "120626DC",
-        "piece": "Piano Trio, etc.",
-        "composer": "Composer Name #4",
-        "performers": "Violinist Name, violin\nCellist Name, cello\nPianist Name, piano "
+        "piece": "[Serena and Terry's Group]",
+        "composer": "Composer Name",
+        "performers": "Performer, instrument\nPerformer, instrument\nPerformer, instrument\nPerformer, instrument"
+      },
+      {
+        "eventId": "120626DC",
+        "piece": "[Donna, Jane, and Hanna's Group]",
+        "composer": "Composer Name",
+        "performers": "Performer, instrument\nPerformer, instrument\nPerformer, instrument"
       },
       {
         "eventId": "123456XX",
