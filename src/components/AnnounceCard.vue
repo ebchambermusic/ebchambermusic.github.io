@@ -9,7 +9,7 @@
       v-for="(field, key) in display"
       :key="field.name"
       class="announcement"
-      :class="{ status: key === 'status' }"
+      :class="{ status: key === 'status', notes: key === 'notes', venue: key === 'venue' }"
     >
       <span v-if="key === 'host'">{{ labels[key] }}: </span>
       <span class="content">{{ field }}</span>
@@ -96,9 +96,12 @@ onMounted(async () => {
   font-weight: 600;
   margin-bottom: 1rem;
 }
-.status {
+.venue {
+  margin-bottom: 1rem;
+}
+.status,
+.notes {
   font-style: italic;
-  margin-top: 1rem;
   .content {
     font-weight: 400;
   }

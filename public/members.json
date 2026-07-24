@@ -9,9 +9,10 @@
       "emailAddress": "e@asdf.talk",
       "phoneNumber": "",
       "playingLevel": "Advanced",
-      "repertoireExamples": "Brahms Piano Quintet, 4th movement (second violin), currently working on Chaminade Piano Trio, 3rd movement",
+      "repertoireExamples": "Brahms Piano Quintet, 4th movement (second violin), currently working on Chaminade Piano Trio No. 2, 3rd movement",
       "interestedInSightreading": "Yes",
-      "introduction": "I am already part of a pre-formed group but really enjoy reading! I prefer to play second violin whenever possible."
+      "introduction": "I am already part of a pre-formed group but really enjoy reading! I prefer to play second violin whenever possible.",
+      "addMeToTheEmailList": ""
     },
     {
       "timestamp": "2026-07-20T20:42:02.018Z",
@@ -24,7 +25,8 @@
       "playingLevel": "Advanced",
       "repertoireExamples": "Brahms piano quintet mvt IV, schumann piano quartet mvts II, IV",
       "interestedInSightreading": "Yes",
-      "introduction": "Interested in playing with just about anyone any time!"
+      "introduction": "Interested in playing with just about anyone any time!",
+      "addMeToTheEmailList": ""
     }
   ],
   "labels": {
@@ -38,6 +40,7 @@
     "playingLevel": "Playing level",
     "repertoireExamples": "Repertoire examples",
     "interestedInSightreading": "Interested in sightreading",
-    "introduction": "Introduction"
+    "introduction": "Introduction",
+    "addMeToTheEmailList": "Add me to the email list!"
   }
 }

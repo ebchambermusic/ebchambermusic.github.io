@@ -46,6 +46,7 @@ const exclude = [
   "instruments",
   "emailAddress",
   "phoneNumber",
+  "addMeToTheEmailList"
 ]
 const display = (person) => {
   if (!person) return []

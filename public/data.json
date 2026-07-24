@@ -30,6 +30,7 @@
         "time": "3:30 - 6:30PM",
         "venue": "Hillside Community Church\n1422 Navellier Street, El Cerrito, CA 94530",
         "status": true,
+        "notes": "",
         "host": "Debbie Carton",
         "contact": "dycarton@yahoo.com"
       }
@@ -41,6 +42,7 @@
       "time": "Time",
       "venue": "Venue",
       "status": "Status",
+      "notes": "Notes",
       "host": "Host",
       "contact": "Contact"
     }
