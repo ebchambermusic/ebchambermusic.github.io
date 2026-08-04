@@ -4,7 +4,7 @@
       {
         "home": "Welcome to East Bay Chamber Music! See below for details for the next performance and visit the information page to learn more about EBCM.",
         "information": "East Bay Chamber Music (EBCM) is a volunteer-run group focused on facilitating amateur chamber music opportunities in the East Bay (San Francisco Bay Area). There will be at least one set performance date per quarter that people can sign up for, but groups are encouraged to organize their own recitals and invite others to take part via EBCM announcements.\n\nEach group is responsible for managing their own rehearsals - choosing repertoire, renting space, hiring coaches (not required, but recommended!), and organizing schedules and logistics. In the future, this may change, depending on participation levels and interest.",
-        "members": "A directory of the musicians of EBCM. If you'd like to be added to this page, please fill out the form. This is optional - you can sign up for announcement emails by joining the Google Group without being listed here.\n\nPlease note that it may take some time for your profile to appear after submission of the form. Thank you!\nIf you would like to make edits to your current profile, just email ebchambermusic@gmail.com.\n\nFiltering and sorting options will be available soon!",
+        "members": "A directory of the musicians of EBCM. If you'd like to be added to this page, please fill out the form. This is optional - you can just sign up for announcement emails without being listed here.\n\nPlease note that it may take some time for your profile to appear after submission of the form. Thank you!\nIf you would like to make edits to your current profile, just email ebchambermusic@gmail.com.\n\nFiltering and sorting options will be available soon!",
         "coaches": "A directory of chamber music coaches in the area. If you are a coach who would like to be added to this page, please fill out the form. If you have a suggestion for a coach who isn't listed, email ebchambermusic@gmail.com with their contact information or send the form to the coach directly.\n\nPlease note that it may take some time for your profile to appear after submission of the form. Thank you!\nIf you would like to make edits to your current profile, just email ebchambermusic@gmail.com.",
         "resources": "[Coming soon!] A collection of helpful resources and local recommendations.",
         "contact": "You may send any inquiries to ebchambermusic@gmail.com. EBCM is run by volunteers so please allow time for replies. We welcome feedback and suggestions!",
@@ -63,21 +63,21 @@
       },
       {
         "eventId": "120626DC",
-        "piece": "[Piece Name & Movements Placeholder]",
+        "piece": "[Piece & Movements TBA]",
         "composer": "Kenji Bunch",
         "performers": "Caroline Danielson, violin\nCinnie Chou, violin\nClaire Simpson, viola\nSarah Holt, viola\nKatherine Mckenzie, cello"
       },
       {
         "eventId": "120626DC",
         "piece": "[Serena and Terry's Group]",
-        "composer": "Composer Name",
-        "performers": "Performer, instrument\nPerformer, instrument\nPerformer, instrument\nPerformer, instrument"
+        "composer": "[Composer]",
+        "performers": "Serena Pon, violin\nTeresa Randall, viola\n[?]"
       },
       {
         "eventId": "120626DC",
         "piece": "[Donna, Jane, and Hanna's Group]",
-        "composer": "Composer Name",
-        "performers": "Performer, instrument\nPerformer, instrument\nPerformer, instrument"
+        "composer": "[Composer]",
+        "performers": "Donna Maruta, violin\nJane Scantlebury, violin\nHanna Hurley, cello"
       },
       {
         "eventId": "123456XX",
