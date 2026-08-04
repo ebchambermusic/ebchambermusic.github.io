@@ -11,9 +11,9 @@
             <span>{{ question.answer }}</span>
             <LinkCard
               v-if="question.question === 'How do I join or sign up?'"
-              url="https://groups.google.com/g/ebchambermusic/about"
+              url="https://forms.gle/th46mvZECEbru2dF9"
             >
-              Join the Google Group for email announcements
+              Join the mailing list and receive announcements
             </LinkCard>
             <LinkCard
               v-if="question.question === 'How do I get listed on the members page?'"

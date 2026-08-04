@@ -2,10 +2,10 @@
   <div class="members">
     <PageDescription :description="description" />
     <LinkCard url="https://forms.gle/vndUTwXcNZSCHi4s6">
-      Click here to add your member profile to this page (Google Form)
+      Click here to add your member profile to this page
     </LinkCard>
-    <LinkCard url="https://groups.google.com/g/ebchambermusic/about">
-      Click here to join the Google Group for email announcements
+    <LinkCard url="https://forms.gle/th46mvZECEbru2dF9">
+      Click here to join the mailing list and receive announcements
     </LinkCard>
     <PersonList data="/members.json" />
   </div>
