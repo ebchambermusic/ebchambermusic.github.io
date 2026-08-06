@@ -55,6 +55,20 @@
       "interestedInSightreading": "",
       "introduction": "",
       "addMeToTheEmailList": "Yes, I'd like email notifications!"
+    },
+    {
+      "timestamp": "2026-08-06T17:09:44.375Z",
+      "name": "Julius Hochmuth",
+      "pronouns": "He/Him",
+      "location": "San Francisco",
+      "instruments": "Cello",
+      "emailAddress": "julius.hochmuth@gmail.com",
+      "phoneNumber": 9709889509,
+      "playingLevel": "Advanced",
+      "repertoireExamples": "",
+      "interestedInSightreading": "Yes",
+      "introduction": "",
+      "addMeToTheEmailList": "Yes, I'd like email notifications!"
     }
   ],
   "labels": {
