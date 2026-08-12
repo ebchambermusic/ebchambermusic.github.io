@@ -74,7 +74,7 @@ const display = (person) => {
 onMounted(async () => {
   const response = await fetch(props.data)
   const result = await response.json()
-  people.value = result.data
+  people.value = result.data.sort((a, b) => a.name.localeCompare(b.name))
   labels.value = result.labels
 })
 </script>
