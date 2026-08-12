@@ -6,7 +6,7 @@
         "information": "East Bay Chamber Music (EBCM) is a volunteer-run group focused on facilitating amateur chamber music opportunities in the East Bay (San Francisco Bay Area). There will be at least one set performance date per quarter that people can sign up for, but groups are encouraged to organize their own recitals and invite others to take part via EBCM announcements.\n\nEach group is responsible for managing their own rehearsals - choosing repertoire, renting space, hiring coaches (not required, but recommended!), and organizing schedules and logistics. In the future, this may change, depending on participation levels and interest.",
         "members": "A directory of the musicians of EBCM. If you'd like to be added to this page, please fill out the form. This is optional - you can just sign up for announcement emails without being listed here.\n\nPlease note that it may take some time for your profile to appear after submission of the form. Thank you!\nIf you would like to make edits to your current profile, just email ebchambermusic@gmail.com.\n\nFiltering and sorting options will be available soon!",
         "coaches": "A directory of chamber music coaches in the area. If you are a coach who would like to be added to this page, please fill out the form. If you have a suggestion for a coach who isn't listed, email ebchambermusic@gmail.com with their contact information or send the form to the coach directly.\n\nPlease note that it may take some time for your profile to appear after submission of the form. Thank you!\nIf you would like to make edits to your current profile, just email ebchambermusic@gmail.com.",
-        "resources": "[Coming soon!] A collection of helpful resources and local recommendations.",
+        "resources": "See below for a list of helpful resources, and if you have any to add or suggest (especially local recommendations), please email ebchambermusic@gmail.com.\n\nFacility and venue lists have mostly been compiled according to information available online and may not be up to date.",
         "contact": "You may send any inquiries to ebchambermusic@gmail.com. EBCM is run by volunteers so please allow time for replies. We welcome feedback and suggestions!",
         "error": "Oops! Something's wrong. Click any of the links in the menu to be taken to the main site.\n\nIf you keep finding yourself here, please email ebchambermusic@gmail.com and provide any information about how you got to this error page."
       }
@@ -132,6 +132,10 @@
         "answer": "Fantastic! As a host, you'll be responsible for your own event (fees, logistics, etc.) but EBCM can send announcements to members on your behalf - either looking for more performers, or simply advertising the concert.\n\nYou can send program information as you receive it to ebchambermusic@gmail.com and we'll update the site's homepage accordingly."
       },
       {
+        "question": "How can I support EBCM?",
+        "answer": "The most helpful thing you can do other than participate in an EBCM event is to attend the events, and invite other people too!"
+      },
+      {
         "question": "I have more questions!",
         "answer": "Send a message to ebchambermusic@gmail.com!"
       }
@@ -139,6 +143,76 @@
     "labels": {
       "question": "Question",
       "answer": "Answer"
+    }
+  },
+  "resources": {
+    "data": [
+      {
+        "category": "Rentals",
+        "name": "Rehearsal Facilities",
+        "link": "https://docs.google.com/spreadsheets/d/1afWaJGzV-UQCDLFN2-rp0Qw9KQvcYuO-HwNDsK5ybqw/edit?usp=sharing",
+        "description": "A list of possible rehearsal spaces - smaller rooms for meeting with just one group (and perhaps a coach)"
+      },
+      {
+        "category": "Rentals",
+        "name": "Performance Venues",
+        "link": "https://docs.google.com/spreadsheets/d/1hq01t6V8B6ZTMESWqz3uQq_ZAYwEehx281STamU6ybs/edit?usp=sharing",
+        "description": "A list of possible performance venues for hosting recitals, usually with a piano available"
+      },
+      {
+        "category": "Rentals",
+        "name": "The Event Helper",
+        "link": "https://www.theeventhelper.com/",
+        "description": "Purchase a one-day certificate of liability insurance if needed (required for many performance venues)"
+      },
+      {
+        "category": "Resources",
+        "name": "International Music Score Library Project (IMSLP)",
+        "link": "https://imslp.org/",
+        "description": "Everyone's favorite resource for free sheet music in the public domain "
+      },
+      {
+        "category": "Resources",
+        "name": "Southwest Strings",
+        "link": "https://www.swstrings.com/",
+        "description": "Generally cheaper Henle available here, along with other supplies"
+      },
+      {
+        "category": "Resources",
+        "name": "SoundBox Strings",
+        "link": "https://soundboxstrings.com/",
+        "description": "String trials available, although it's most helpful for cello strings or more expensive sets"
+      },
+      {
+        "category": "Recommendations",
+        "name": "Ifshin Violins",
+        "link": "https://www.ifshinviolins.com/",
+        "description": "Instrument makers, rentals, and accessories/supplies\nClosed on Sundays and Mondays"
+      },
+      {
+        "category": "Recommendations",
+        "name": "Cello Seat Cushions",
+        "link": "https://www.celloseatcushions.com/",
+        "description": "Multiple options of height + possible customization for seat cushion"
+      },
+      {
+        "category": "Organizations",
+        "name": "Chamber Musicians of Northern California (CMNC)",
+        "link": "https://www.cmnc.org/index.php",
+        "description": "[Paid] Membership available with access to their directory, and they hold chamber music workshops in Northern California - or you can sign up for their mailing list for free"
+      },
+      {
+        "category": "Organizations",
+        "name": "Crowden Adult Chamber Music",
+        "link": "https://www.crowden.org/adult-chamber-music/",
+        "description": "[Paid] Structured, coached chamber music for eight rehearsals and a recital during fall, winter, and spring. A five-day workshop is available in the summer"
+      }
+    ],
+    "labels": {
+      "category": "Category",
+      "name": "Name",
+      "link": "Link",
+      "description": "Description"
     }
   }
 }

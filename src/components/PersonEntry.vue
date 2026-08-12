@@ -21,9 +21,6 @@
   border-radius: var(--border-radius);
   padding: 1rem;
 }
-.person:first-of-type {
-  margin-top: 0;
-}
 
 .details {
   flex: 1;
