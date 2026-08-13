@@ -37,14 +37,9 @@ const display = computed(() => {
     exclude.push("contact")
   }
   const announce = Object.entries(announcement.value)
-    .filter(([key]) => !exclude.includes(key))
+    .filter(([key, value]) => !exclude.includes(key) && !(key === "notes" && value === ""))
     .map(([key, value]) => {
       let final = value
-      if (key === "status" && value) {
-        final = "Performance slots are available!"
-      } else if (key === "status" && !value) {
-        final = "Performer list is at capacity."
-      }
       return [key, final]
     })
   return Object.fromEntries(announce)
@@ -105,6 +100,10 @@ onMounted(async () => {
   .content {
     font-weight: 400;
   }
+}
+.notes {
+  font-size: 1rem;
+  margin: 8px 0;
 }
 
 @media screen and (max-width: 600px) {

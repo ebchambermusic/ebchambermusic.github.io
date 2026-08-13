@@ -2,7 +2,7 @@
   "descriptions": {
     "data": [
       {
-        "home": "Welcome to East Bay Chamber Music! See below for details for the next performance and visit the information page to learn more about EBCM.",
+        "home": "Welcome to East Bay Chamber Music! See below for details for upcoming performances and visit the information page to learn more about EBCM.",
         "information": "East Bay Chamber Music (EBCM) is a volunteer-run group focused on facilitating amateur chamber music opportunities in the East Bay (San Francisco Bay Area). There will be at least one set performance date per quarter that people can sign up for, but groups are encouraged to organize their own recitals and invite others to take part via EBCM announcements.\n\nEach group is responsible for managing their own rehearsals - choosing repertoire, renting space, hiring coaches (not required, but recommended!), and organizing schedules and logistics. In the future, this may change, depending on participation levels and interest.",
         "members": "A directory of the musicians of EBCM. If you'd like to be added to this page, please fill out the form. This is optional - you can just sign up for announcement emails without being listed here.\n\nPlease note that it may take some time for your profile to appear after submission of the form. Thank you!\nIf you would like to make edits to your current profile, just email ebchambermusic@gmail.com.\n\nFiltering and sorting options will be available soon!",
         "coaches": "A directory of chamber music coaches in the area. If you are a coach who would like to be added to this page, please fill out the form. If you have a suggestion for a coach who isn't listed, email ebchambermusic@gmail.com with their contact information or send the form to the coach directly.\n\nPlease note that it may take some time for your profile to appear after submission of the form. Thank you!\nIf you would like to make edits to your current profile, just email ebchambermusic@gmail.com.",
@@ -27,9 +27,9 @@
         "eventId": "120626DC",
         "name": "\"We Met At Crowden\"",
         "date": "December 6, 2026",
-        "time": "3:30 - 6:30PM",
+        "time": "3:30 - 6:30 PM",
         "venue": "Hillside Community Church\n1422 Navellier Street, El Cerrito, CA 94530",
-        "status": true,
+        "status": "One performing slot may be available.",
         "notes": "",
         "host": "Debbie Carton",
         "contact": "dycarton@yahoo.com"
@@ -157,7 +157,7 @@
         "category": "Rentals",
         "name": "Performance Venues",
         "link": "https://docs.google.com/spreadsheets/d/1hq01t6V8B6ZTMESWqz3uQq_ZAYwEehx281STamU6ybs/edit?usp=sharing",
-        "description": "A list of possible performance venues for hosting recitals, usually with a piano available"
+        "description": "A list of possible performance venues for hosting recitals. Needing a piano will narrow down your options significantly"
       },
       {
         "category": "Rentals",
