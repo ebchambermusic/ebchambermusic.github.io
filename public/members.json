@@ -97,6 +97,20 @@
       "interestedInSightreading": "Yes",
       "introduction": "",
       "addMeToTheEmailList": "Yes, I'd like email notifications!"
+    },
+    {
+      "timestamp": "2026-08-14T04:41:21.247Z",
+      "name": "Russell Vance",
+      "pronouns": "He/Him",
+      "location": "Albany, CA",
+      "instruments": "Cello",
+      "emailAddress": "rvance@berkeley.edu",
+      "phoneNumber": "",
+      "playingLevel": "Advanced, or nearly so!",
+      "repertoireExamples": "Faure D minor piano trio, Brahms clarinet quintet",
+      "interestedInSightreading": "",
+      "introduction": "Played seriously for ~20 years and then life, career, kids intervened — and am now back to playing regularly for the past 2 years. I also play in the Prometheus Orchestra. ",
+      "addMeToTheEmailList": "Yes, I'd like email notifications!"
     }
   ],
   "labels": {
