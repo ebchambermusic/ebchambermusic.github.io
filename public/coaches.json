@@ -35,6 +35,18 @@
       "levelOfInstruction": "All levels",
       "rate": "Contact for rate",
       "introduction": "www.katestenberg.com"
+    },
+    {
+      "timestamp": "2026-08-16T18:30:20.264Z",
+      "name": "Mary Artmann",
+      "pronouns": "She/Her",
+      "location": "East Bay",
+      "instruments": "Cello",
+      "emailAddress": "cmaryartmann@gmail.com",
+      "phoneNumber": 7193341906,
+      "levelOfInstruction": "All levels",
+      "rate": "maryartmann.com",
+      "introduction": "I have a life-long passion for chamber music, both performing and coaching!"
     }
   ],
   "labels": {
