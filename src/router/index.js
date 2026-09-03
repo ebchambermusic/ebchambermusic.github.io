@@ -33,6 +33,11 @@ const router = createRouter({
       name: "contact",
       component: () => import("../views/ContactView.vue"),
     },
+    // {
+    //   path: "/archive",
+    //   name: "archive",
+    //   component: () => import("../views/ArchiveView.vue"),
+    // },
     {
       path: '/:pathMatch(.*)*',
       name: 'error',

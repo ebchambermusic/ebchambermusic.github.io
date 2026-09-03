@@ -8,6 +8,7 @@
         "coaches": "A directory of chamber music coaches in the area. If you are a coach who would like to be added to this page, please fill out the form. If you have a suggestion for a coach who isn't listed, email ebchambermusic@gmail.com with their contact information or send the form to the coach directly.\n\nPlease note that it may take some time for your profile to appear after submission of the form. Thank you!\nIf you would like to make edits to your current profile, just email ebchambermusic@gmail.com.",
         "resources": "See below for a list of helpful resources, and if you have any to add or suggest (especially local recommendations), please email ebchambermusic@gmail.com.\n\nFacility and venue lists have mostly been compiled according to information available online and may not be up to date.",
         "contact": "You may send any inquiries to ebchambermusic@gmail.com. EBCM is run by volunteers so please allow time for replies. We welcome feedback and suggestions!",
+        "archive": "Curious about past events? Select a date to see the repertoire performed on that program.",
         "error": "Oops! Something's wrong. Click any of the links in the menu to be taken to the main site.\n\nIf you keep finding yourself here, please email ebchambermusic@gmail.com and provide any information about how you got to this error page."
       }
     ],
@@ -18,11 +19,25 @@
       "coaches": "Coaches",
       "resources": "Resources",
       "contact": "Contact",
+      "archive": "Archive",
       "error": "Error"
     }
   },
   "announcements": {
     "data": [
+      {
+        "eventId": "110726EB",
+        "name": "EBCM - Fall",
+        "date": "November 7, 2026",
+        "time": "3:00 - 4:30 PM",
+        "venue": "Hillside Community Church\n1422 Navellier Street, El Cerrito, CA 94530",
+        "status": "Performance slots are available!",
+        "accepting": true,
+        "notes": "Inaugural recital! Please join us for our very first event, either as a performer or as an audience member.",
+        "host": "East Bay Chamber Music",
+        "contact": "ebchambermusic@gmail.com",
+        "program": true
+      },
       {
         "eventId": "120626DC",
         "name": "\"We Met At Crowden\"",
@@ -30,9 +45,11 @@
         "time": "3:30 - 6:30 PM",
         "venue": "Hillside Community Church\n1422 Navellier Street, El Cerrito, CA 94530",
         "status": "One performing slot may be available.",
+        "accepting": true,
         "notes": "",
         "host": "Debbie Carton",
-        "contact": "dycarton@yahoo.com"
+        "contact": "dycarton@yahoo.com",
+        "program": true
       }
     ],
     "labels": {
@@ -42,13 +59,27 @@
       "time": "Time",
       "venue": "Venue",
       "status": "Status",
+      "accepting": "Accepting",
       "notes": "Notes",
       "host": "Host",
-      "contact": "Contact"
+      "contact": "Contact",
+      "program": "Program"
     }
   },
   "programs": {
     "data": [
+      {
+        "eventId": "110726EB",
+        "piece": "Requiem",
+        "composer": "David Popper",
+        "performers": "Julius Hochmuth, cello\nRussell Vance, cello\nKenneth Peterson, cello\nAlex Li, piano"
+      },
+      {
+        "eventId": "110726EB",
+        "piece": "Piano Trio No. 2\n[Movements TBD]",
+        "composer": "Cécile Chaminade",
+        "performers": "Eva Woo, violin\nKenneth Peterson, cello\nKelley Yuan, piano"
+      },
       {
         "eventId": "120626DC",
         "piece": "Cuatro Estaciones Porteñas (The Four Seasons of Buenos Aires)\nII. Invierno Porteño (Winter)\nIII. Primavera Porteña (Spring)\nIV. Otoño Porteño (Autumn)",
@@ -63,29 +94,48 @@
       },
       {
         "eventId": "120626DC",
-        "piece": "[Piece & Movements TBA]",
+        "piece": "[Piece & Movements TBD]",
         "composer": "Kenji Bunch",
         "performers": "Caroline Danielson, violin\nCinnie Chou, violin\nClaire Simpson, viola\nSarah Holt, viola\nKatherine Mckenzie, cello"
       },
       {
         "eventId": "120626DC",
-        "piece": "[Serena and Terry's Group]",
+        "piece": "[Piece & Movements TBD]",
         "composer": "[Composer]",
         "performers": "Serena Pon, violin\nTeresa Randall, viola\n[?]"
       },
       {
         "eventId": "120626DC",
-        "piece": "[Donna, Jane, and Hanna's Group]",
+        "piece": "[Piece & Movements TBD]",
         "composer": "[Composer]",
         "performers": "Donna Maruta, violin\nJane Scantlebury, violin\nHanna Hurley, cello"
-      },
-      {
-        "eventId": "123456XX",
-        "piece": "Test Example Piece Next Program",
-        "composer": "Composer Name #5",
-        "performers": "Violinist #1 Name, violin\nViolinist #2 Name, violin\nViolist Name, viola\nCellist Name, cello"
       }
     ],
+    "labels": {
+      "eventId": "Event ID",
+      "piece": "Piece",
+      "composer": "Composer",
+      "performers": "Performers"
+    }
+  },
+  "archive": {
+    "data": [],
+    "labels": {
+      "eventId": "Event ID",
+      "name": "Name",
+      "date": "Date",
+      "time": "Time",
+      "venue": "Venue",
+      "status": "Status",
+      "accepting": "Accepting",
+      "notes": "Notes",
+      "host": "Host",
+      "contact": "Contact",
+      "program": "Program"
+    }
+  },
+  "repertoire": {
+    "data": [],
     "labels": {
       "eventId": "Event ID",
       "piece": "Piece",
@@ -118,6 +168,10 @@
       {
         "question": "What do we expect of performers?",
         "answer": "Your group should present something you've worked on with the intention of performing it.\n\nAt minimum, you'll have met a couple of times in order to rehearse - coaching is optional."
+      },
+      {
+        "question": "Is there a time limit for performing?",
+        "answer": "While there is no strict time limit, we ask that you try to limit your selection(s) to 15 minutes or less so that more people have the opportunity to perform. Time permitting, we may be able to accommodate longer performances.\n\nIf you have an entire piece you'd like to perform, we encourage you to host your own event for it, and you can recruit other EBCM members to fill out the rest of your program."
       },
       {
         "question": "Do we need to audition?",

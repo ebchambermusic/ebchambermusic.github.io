@@ -1,37 +1,41 @@
 <template>
   <div class="program-wrapper">
-    <div v-for="(entry, index) in display" :key="`${entry.eventId}-${index}`" class="program">
-      <span class="piece">{{ entry.piece }}</span
-      ><span class="composer">{{ entry.composer }}</span>
+    <div v-for="(entry, index) in props.program" :key="`${entry.eventId}-${index}`" class="program">
+      <span class="piece">{{ entry.piece }}</span>
+      <span class="composer">{{ entry.composer }}</span>
       <div class="performers">{{ entry.performers }}</div>
     </div>
   </div>
 </template>
 
 <script setup>
-import { computed, onMounted } from "vue"
+import { onMounted } from "vue"
 import { useMainData } from "../composables/data.js"
 
 const props = defineProps({
-  currentProgram: {
-    type: String,
-    required: true,
-    default: "",
+  program: {
+    type: Array,
+    default: () => []
   },
 })
 
-const { fetchMainData, subData } = useMainData()
+const { fetchMainData } = useMainData()
 
-const program = subData("programs.data")
-// const labels = subData("programs.labels");
-
-const exclude = ["eventId"]
-const display = computed(() => {
-  if (!program.value) return []
-  const findEnd = program.value.findIndex((item) => item.eventId !== props.currentProgram)
-  const current = findEnd === -1 ? program.value : program.value.slice(0, findEnd)
-  return current.filter((item) => !exclude.includes(item.id))
-})
+// const exclude = ["eventId"]
+// const display = computed(() => {
+//   const list = program.value
+//   if (!list?.length) return []
+//   const id = props.currentProgram
+//   const start = list.findIndex((entry) => entry.eventId === id)
+//   if (start === -1) return []
+//   const next = list.slice(start).findIndex((entry) => entry.eventId !== id)
+//   const end = next === -1 ? list.length : start + next
+//   return list.slice(start, end).map((entry) => {
+//     return Object.fromEntries(
+//       Object.entries(entry).filter(([key]) => !exclude.includes(key))
+//     )
+//   })
+// })
 
 onMounted(async () => {
   fetchMainData()

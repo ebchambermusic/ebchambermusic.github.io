@@ -47,3 +47,37 @@ export function useMainData() {
     subData,
   }
 }
+
+export function useToggle() {
+  const currentIndex = ref(null)
+  const toggle = (index) => {
+    if (currentIndex.value === index) {
+      currentIndex.value = null
+    } else {
+      currentIndex.value = index
+    }
+  }
+  return { currentIndex, toggle }
+}
+
+export function useMerge() {
+  function merge(main, related) {
+    let index = 0
+    return main.map(event => {
+      const performances = []
+      let temp = index;
+      while (temp < related.length && related[temp].eventId !== event.eventId) {
+        temp++
+      }
+      if (temp < related.length) {
+        index = temp;
+        while (index < related.length && related[index].eventId === event.eventId) {
+          performances.push(related[index])
+          index++
+        }
+      }
+      return { ...event, performances }
+    })
+  }
+  return { merge }
+}

@@ -1,0 +1,40 @@
+.interact {
+  border-radius: var(--border-radius);
+  cursor: pointer;
+  transition: background-color 0.4s;
+}
+.open {
+  border-radius: var(--border-radius) var(--border-radius) 0 0;
+}
+
+.animate-wrapper {
+  display: grid;
+  grid-template-rows: 1fr;
+  overflow: hidden;
+  border-radius: 0 0 var(--border-radius) var(--border-radius);
+}
+.accordion {
+  min-height: 0;
+  transition: padding 0.4s ease-in-out;
+  padding: 1rem;
+}
+
+:global(.animate-enter-active) {
+  transition: all 0.4s ease-out;
+}
+:global(.animate-leave-active) {
+  transition: all 0.4s ease-in;
+}
+:global(.animate-enter-from),
+:global(.animate-leave-to) {
+  grid-template-rows: 0fr;
+}
+:global(.animate-enter-from) .accordion,
+:global(.animate-leave-to) .accordion {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+:global(.animate-enter-to),
+:global(.animate-leave-from) {
+  grid-template-rows: 1fr;
+}

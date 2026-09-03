@@ -23,25 +23,31 @@ import { computed, onMounted } from "vue"
 import { useMainData } from "../composables/data.js"
 import { checkMedia } from "../composables/media.js"
 
+const props = defineProps({
+  announcement: {
+    type: Object,
+    required: true,
+  }
+})
+
 const { fetchMainData, subData } = useMainData()
 
 const mediaBreak = checkMedia("(max-width: 600px)")
 
-const announcement = subData("announcements.data[0]")
 const labels = subData("announcements.labels")
 
 const display = computed(() => {
-  if (!announcement.value) return {}
-  const exclude = ["eventId", "name"]
-  if (!announcement.value.status) {
+  if (!props.announcement) return {}
+  const exclude = ["eventId", "name", "accepting", "program", "performances"]
+  if (!props.announcement.status) {
     exclude.push("contact")
   }
-  const announce = Object.entries(announcement.value)
+  const announce = Object.entries(props.announcement)
     .filter(([key, value]) => !exclude.includes(key) && !(key === "notes" && value === ""))
-    .map(([key, value]) => {
-      let final = value
-      return [key, final]
-    })
+    // .map(([key, value]) => {
+    //   let final = value
+    //   return [key, final]
+    // })
   return Object.fromEntries(announce)
 })
 
