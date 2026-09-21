@@ -2,6 +2,6 @@
 
 Repository holding the SPA for EBCM's website, built with Vue/Vite. Data downloaded as .json from Google Sheets (for now).
 
-[EBCM site](ebchambermusic.github.io)
+[EBCM site](ebchambermusic.org)
 
 # 🎶️
