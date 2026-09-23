@@ -81,6 +81,12 @@
         "performers": "Eva Woo, violin\nKenneth Peterson, cello\nKelley Yuan, piano"
       },
       {
+        "eventId": "110726EB",
+        "piece": "Cello Sonata, Op. 40\nI. Allegro non troppo\nII. Allegro",
+        "composer": "Dmitri Shostakovich",
+        "performers": "Julius Hochmuth, cello\nCathy Yeh, piano"
+      },
+      {
         "eventId": "120626DC",
         "piece": "Cuatro Estaciones Porteñas (The Four Seasons of Buenos Aires)\nII. Invierno Porteño (Winter)\nIII. Primavera Porteña (Spring)\nIV. Otoño Porteño (Autumn)",
         "composer": "Astor Piazzolla",
