@@ -76,6 +76,12 @@
       },
       {
         "eventId": "110726EB",
+        "piece": "Piano Quintet in G minor, Op. 57\nI. Prelude: Lento",
+        "composer": "Dmitri Shostakovich",
+        "performers": "Alex Carney, violin\nLaura Shifley, violin\nLaurence Lewis, viola\nMinsu Longiaru, cello\nCathy Yeh, piano"
+      },
+      {
+        "eventId": "110726EB",
         "piece": "Piano Trio No. 2\n[Movements TBD]",
         "composer": "Cécile Chaminade",
         "performers": "Eva Woo, violin\nKenneth Peterson, cello\nKelley Yuan, piano"
