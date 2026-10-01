@@ -19,7 +19,7 @@
       "location": "Berkeley ",
       "instruments": "Woodwinds",
       "emailAddress": "lawrencelondon@yahoo.com",
-      "phoneNumber": "510 409-2416",
+      "phoneNumber": "510-409-2416",
       "levelOfInstruction": "Intermediate/Advanced",
       "rate": "$75/hr",
       "introduction": "I have played clarinet in all the professional orchestras in the Bay Area, as well as in numerous chamber groups since 1971.  I am a composer and I can be heard on youtube playing my compositions in various chamber ensembles.  I specialize in the classical repertoire from Bach to the present.  https://www.youtube.com/watch?v=9rJT4JVbT34"
@@ -43,7 +43,7 @@
       "location": "East Bay",
       "instruments": "Cello",
       "emailAddress": "cmaryartmann@gmail.com",
-      "phoneNumber": 7193341906,
+      "phoneNumber": "719-334-1906",
       "levelOfInstruction": "All levels",
       "rate": "maryartmann.com",
       "introduction": "I have a life-long passion for chamber music, both performing and coaching!"
@@ -52,13 +52,25 @@
       "timestamp": "2026-09-23T04:04:27.444Z",
       "name": "Betsy London",
       "pronouns": "She/Her",
-      "location": "East BAY",
-      "instruments": "VIOLA",
+      "location": "East Bay",
+      "instruments": "Viola",
       "emailAddress": "beeezlondon@gmail.com",
       "phoneNumber": "",
       "levelOfInstruction": "All levels",
       "rate": "$80 PER 60. $120 PER 90",
       "introduction": "I've played professional in all the local orchestras since 1979.  \nLove coaching and playing chamber music."
+    },
+    {
+      "timestamp": "2026-10-01T13:21:25.658Z",
+      "name": "Anthony Martin",
+      "pronouns": "He/Him",
+      "location": "East Bay from Oakland on north",
+      "instruments": "Violin, Viola",
+      "emailAddress": "1martinagel@earthlink.net",
+      "phoneNumber": "510-260-4001",
+      "levelOfInstruction": "All levels",
+      "rate": "$75 per 45 minutes, $90 per hour",
+      "introduction": "Anthony Martin performs chamber music on modern & baroque violin & viola. He has coached at SF Conservatory as Director of Conservatory Baroque, at UC Berkeley as Director of the Collegium, and currently is Director of the Stanford Baroque Soloists. He has been a founding member of Orchestra of the 18th Century in Amsterdam, Boston Baroque, Philharmonia Baroque Orchestra, and the New Esterházy Quartet. In spite of all his period instrument activity, Anthony very much enjoys making music with and coaching players of present-day instruments."
     }
   ],
   "labels": {
