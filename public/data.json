@@ -31,7 +31,7 @@
         "date": "November 7, 2026",
         "time": "3:00 - 4:30 PM",
         "venue": "Hillside Community Church\n1422 Navellier Street, El Cerrito, CA 94530",
-        "status": "Performance slots are available!",
+        "status": "One performing slot left!",
         "accepting": true,
         "notes": "Inaugural recital! Please join us for our very first event, either as a performer or as an audience member.",
         "host": "East Bay Chamber Music",
@@ -70,15 +70,9 @@
     "data": [
       {
         "eventId": "110726EB",
-        "piece": "Requiem",
-        "composer": "David Popper",
-        "performers": "Julius Hochmuth, cello\nRussell Vance, cello\nKenneth Peterson, cello\nAlex Li, piano"
-      },
-      {
-        "eventId": "110726EB",
-        "piece": "Piano Quintet in G minor, Op. 57\nI. Prelude: Lento",
-        "composer": "Dmitri Shostakovich",
-        "performers": "Alex Carney, violin\nLaura Shifley, violin\nLaurence Lewis, viola\nMinsu Longiaru, cello\nCathy Yeh, piano"
+        "piece": "Piano Quartet No. 2, Op. 87\nI. Allegro con fuoco",
+        "composer": "Antonín Dvořák",
+        "performers": "Marcia Belvin, violin\nBlaine Devine, viola\nBill Schneiderman, cello\nLixi Wang, piano"
       },
       {
         "eventId": "110726EB",
@@ -91,6 +85,18 @@
         "piece": "Cello Sonata, Op. 40\nI. Allegro non troppo\nII. Allegro",
         "composer": "Dmitri Shostakovich",
         "performers": "Julius Hochmuth, cello\nCathy Yeh, piano"
+      },
+      {
+        "eventId": "110726EB",
+        "piece": "Piano Quintet in G minor, Op. 57\nI. Prelude: Lento",
+        "composer": "Dmitri Shostakovich",
+        "performers": "Alex Carney, violin\nLaura Shifley, violin\nLaurence Lewis, viola\nMinsu Longiaru, cello\nCathy Yeh, piano"
+      },
+      {
+        "eventId": "110726EB",
+        "piece": "Requiem",
+        "composer": "David Popper",
+        "performers": "Julius Hochmuth, cello\nRussell Vance, cello\nKenneth Peterson, cello\nAlex Li, piano"
       },
       {
         "eventId": "120626DC",
