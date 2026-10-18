@@ -39,7 +39,8 @@ const labels = subData("announcements.labels")
 const display = computed(() => {
   if (!props.announcement) return {}
   const exclude = ["eventId", "name", "accepting", "program", "performances"]
-  if (!props.announcement.status) {
+  if (!props.announcement.accepting) {
+    exclude.push("status")
     exclude.push("contact")
   }
   const announce = Object.entries(props.announcement)

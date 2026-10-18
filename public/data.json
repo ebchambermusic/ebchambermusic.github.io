@@ -32,7 +32,7 @@
         "time": "3:00 - 4:30 PM",
         "venue": "Hillside Community Church\n1422 Navellier Street, El Cerrito, CA 94530",
         "status": "One performing slot left!",
-        "accepting": true,
+        "accepting": false,
         "notes": "Inaugural recital! Please join us for our very first event, either as a performer or as an audience member.",
         "host": "East Bay Chamber Music",
         "contact": "ebchambermusic@gmail.com",
@@ -76,7 +76,7 @@
       },
       {
         "eventId": "110726EB",
-        "piece": "Piano Trio No. 2\n[Movements TBD]",
+        "piece": "Piano Trio No. 2\nI. Allegro moderato",
         "composer": "Cécile Chaminade",
         "performers": "Eva Woo, violin\nKenneth Peterson, cello\nKelley Yuan, piano"
       },
