@@ -76,9 +76,15 @@
       },
       {
         "eventId": "110726EB",
-        "piece": "Piano Trio No. 2\nI. Allegro moderato",
-        "composer": "Cécile Chaminade",
-        "performers": "Eva Woo, violin\nKenneth Peterson, cello\nKelley Yuan, piano"
+        "piece": "Piano Quintet in G minor, Op. 57\nI. Prelude: Lento",
+        "composer": "Dmitri Shostakovich",
+        "performers": "Alex Carney, violin\nLaura Shifley, violin\nLaurence Lewis, viola\nMinsu Longiaru, cello\nCathy Yeh, piano"
+      },
+      {
+        "eventId": "110726EB",
+        "piece": "Serenade in F minor, Op. 73",
+        "composer": "Robert Kahn",
+        "performers": "Cesar Crusius, clarinet\nFelicia Fong, cello\nCorey Chen, piano"
       },
       {
         "eventId": "110726EB",
@@ -88,9 +94,9 @@
       },
       {
         "eventId": "110726EB",
-        "piece": "Piano Quintet in G minor, Op. 57\nI. Prelude: Lento",
-        "composer": "Dmitri Shostakovich",
-        "performers": "Alex Carney, violin\nLaura Shifley, violin\nLaurence Lewis, viola\nMinsu Longiaru, cello\nCathy Yeh, piano"
+        "piece": "Piano Trio No. 2\nI. Allegro moderato",
+        "composer": "Cécile Chaminade",
+        "performers": "Eva Woo, violin\nKenneth Peterson, cello\nKelley Yuan, piano"
       },
       {
         "eventId": "110726EB",
