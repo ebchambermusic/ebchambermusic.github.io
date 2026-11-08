@@ -6,9 +6,9 @@
       <AnnounceCard :announcement="announcement"/>
       <ProgramCard v-if="announcement.program" :program="announcement.performances" />
     </div>
-    <!-- <div class="archive-link">
+     <div class="archive-link">
       <RouterLink to="/archive">Click here to see past programs!</RouterLink>
-    </div> -->
+    </div>
   </div>
 </template>
 

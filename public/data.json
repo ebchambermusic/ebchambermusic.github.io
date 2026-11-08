@@ -26,26 +26,13 @@
   "announcements": {
     "data": [
       {
-        "eventId": "110726EB",
-        "name": "EBCM - Fall",
-        "date": "November 7, 2026",
-        "time": "3:00 - 4:30 PM",
-        "venue": "Hillside Community Church\n1422 Navellier Street, El Cerrito, CA 94530",
-        "status": "One performing slot left!",
-        "accepting": false,
-        "notes": "Inaugural recital! Please join us for our very first event, either as a performer or as an audience member.",
-        "host": "East Bay Chamber Music",
-        "contact": "ebchambermusic@gmail.com",
-        "program": true
-      },
-      {
         "eventId": "120626DC",
         "name": "\"We Met At Crowden\"",
         "date": "December 6, 2026",
         "time": "3:30 - 6:30 PM",
         "venue": "Hillside Community Church\n1422 Navellier Street, El Cerrito, CA 94530",
         "status": "One performing slot may be available.",
-        "accepting": true,
+        "accepting": false,
         "notes": "",
         "host": "Debbie Carton",
         "contact": "dycarton@yahoo.com",
@@ -68,42 +55,6 @@
   },
   "programs": {
     "data": [
-      {
-        "eventId": "110726EB",
-        "piece": "Piano Quartet No. 2, Op. 87\nI. Allegro con fuoco",
-        "composer": "Antonín Dvořák",
-        "performers": "Marcia Belvin, violin\nBlaine Devine, viola\nBill Schneiderman, cello\nLixi Wang, piano"
-      },
-      {
-        "eventId": "110726EB",
-        "piece": "Piano Quintet in G minor, Op. 57\nI. Prelude: Lento",
-        "composer": "Dmitri Shostakovich",
-        "performers": "Alex Carney, violin\nLaura Shifley, violin\nLaurence Lewis, viola\nMinsu Longiaru, cello\nCathy Yeh, piano"
-      },
-      {
-        "eventId": "110726EB",
-        "piece": "Serenade in F minor, Op. 73",
-        "composer": "Robert Kahn",
-        "performers": "Cesar Crusius, clarinet\nFelicia Fong, cello\nCorey Chen, piano"
-      },
-      {
-        "eventId": "110726EB",
-        "piece": "Cello Sonata, Op. 40\nI. Allegro non troppo",
-        "composer": "Dmitri Shostakovich",
-        "performers": "Julius Hochmuth, cello\nCathy Yeh, piano"
-      },
-      {
-        "eventId": "110726EB",
-        "piece": "Piano Trio No. 2, Op. 34\nI. Allegro moderato",
-        "composer": "Cécile Chaminade",
-        "performers": "Eva Woo, violin\nKenneth Peterson, cello\nKelley Yuan, piano"
-      },
-      {
-        "eventId": "110726EB",
-        "piece": "Requiem, Op. 66",
-        "composer": "David Popper",
-        "performers": "Julius Hochmuth, cello\nRussell Vance, cello\nKenneth Peterson, cello\nAlex Li, piano"
-      },
       {
         "eventId": "120626DC",
         "piece": "Cuatro Estaciones Porteñas (The Four Seasons of Buenos Aires)\nII. Invierno Porteño (Winter)\nIII. Primavera Porteña (Spring)\nIV. Otoño Porteño (Autumn)",
@@ -143,7 +94,21 @@
     }
   },
   "archive": {
-    "data": [],
+    "data": [
+      {
+        "eventId": "110726EB",
+        "name": "EBCM - Fall",
+        "date": "November 7, 2026",
+        "time": "3:00 - 4:30 PM",
+        "venue": "Hillside Community Church\n1422 Navellier Street, El Cerrito, CA 94530",
+        "status": "One performing slot left!",
+        "accepting": false,
+        "notes": "Inaugural recital! Please join us for our very first event, either as a performer or as an audience member.",
+        "host": "East Bay Chamber Music",
+        "contact": "ebchambermusic@gmail.com",
+        "program": true
+      }
+    ],
     "labels": {
       "eventId": "Event ID",
       "name": "Name",
@@ -159,7 +124,44 @@
     }
   },
   "repertoire": {
-    "data": [],
+    "data": [
+      {
+        "eventId": "110726EB",
+        "piece": "Piano Quartet No. 2, Op. 87\nI. Allegro con fuoco",
+        "composer": "Antonín Dvořák",
+        "performers": "Marcia Belvin, violin\nBlaine Devine, viola\nBill Schneiderman, cello\nLixi Wang, piano"
+      },
+      {
+        "eventId": "110726EB",
+        "piece": "Piano Quintet in G minor, Op. 57\nI. Prelude: Lento",
+        "composer": "Dmitri Shostakovich",
+        "performers": "Alex Carney, violin\nLaura Shifley, violin\nLaurence Lewis, viola\nMinsu Longiaru, cello\nCathy Yeh, piano"
+      },
+      {
+        "eventId": "110726EB",
+        "piece": "Serenade in F minor, Op. 73",
+        "composer": "Robert Kahn",
+        "performers": "Cesar Crusius, clarinet\nFelicia Fong, cello\nCorey Chen, piano"
+      },
+      {
+        "eventId": "110726EB",
+        "piece": "Cello Sonata, Op. 40\nI. Allegro non troppo",
+        "composer": "Dmitri Shostakovich",
+        "performers": "Julius Hochmuth, cello\nCathy Yeh, piano"
+      },
+      {
+        "eventId": "110726EB",
+        "piece": "Piano Trio No. 2, Op. 34\nI. Allegro moderato",
+        "composer": "Cécile Chaminade",
+        "performers": "Eva Woo, violin\nKenneth Peterson, cello\nKelley Yuan, piano"
+      },
+      {
+        "eventId": "110726EB",
+        "piece": "Requiem, Op. 66",
+        "composer": "David Popper",
+        "performers": "Julius Hochmuth, cello\nRussell Vance, cello\nKenneth Peterson, cello\nAlex Li, piano"
+      }
+    ],
     "labels": {
       "eventId": "Event ID",
       "piece": "Piece",
@@ -244,6 +246,24 @@
         "description": "Purchase a one-day certificate of liability insurance if needed (required for many performance venues)"
       },
       {
+        "category": "Recommendations",
+        "name": "Daniel Olson",
+        "link": "https://maps.app.goo.gl/FofjmWimNp2AW6eX7",
+        "description": "Luthier - local favorite of EBCM members for bow rehairs"
+      },
+      {
+        "category": "Recommendations",
+        "name": "Ifshin Violins",
+        "link": "https://www.ifshinviolins.com/",
+        "description": "Instrument makers, rentals, and accessories/supplies\nClosed on Sundays and Mondays"
+      },
+      {
+        "category": "Recommendations",
+        "name": "Cello Seat Cushions",
+        "link": "https://www.celloseatcushions.com/",
+        "description": "Multiple options of height + possible customization for seat cushion"
+      },
+      {
         "category": "Resources",
         "name": "International Music Score Library Project (IMSLP)",
         "link": "https://imslp.org/",
@@ -260,18 +280,6 @@
         "name": "SoundBox Strings",
         "link": "https://soundboxstrings.com/",
         "description": "String trials available, although it's most helpful for cello strings or more expensive sets"
-      },
-      {
-        "category": "Recommendations",
-        "name": "Ifshin Violins",
-        "link": "https://www.ifshinviolins.com/",
-        "description": "Instrument makers, rentals, and accessories/supplies\nClosed on Sundays and Mondays"
-      },
-      {
-        "category": "Recommendations",
-        "name": "Cello Seat Cushions",
-        "link": "https://www.celloseatcushions.com/",
-        "description": "Multiple options of height + possible customization for seat cushion"
       },
       {
         "category": "Organizations",
