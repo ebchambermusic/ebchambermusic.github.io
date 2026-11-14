@@ -29,7 +29,7 @@
         "eventId": "120626DC",
         "name": "\"We Met At Crowden\"",
         "date": "December 6, 2026",
-        "time": "3:30 - 6:30 PM",
+        "time": "4:30 PM",
         "venue": "Hillside Community Church\n1422 Navellier Street, El Cerrito, CA 94530",
         "status": "One performing slot may be available.",
         "accepting": false,
@@ -57,21 +57,15 @@
     "data": [
       {
         "eventId": "120626DC",
-        "piece": "Cuatro Estaciones Porteñas (The Four Seasons of Buenos Aires)\nII. Invierno Porteño (Winter)\nIII. Primavera Porteña (Spring)\nIV. Otoño Porteño (Autumn)",
-        "composer": "Astor Piazzolla",
-        "performers": "Eric Lee, violin\nAnne Cademenos, cello\nDebbie Carton, piano"
-      },
-      {
-        "eventId": "120626DC",
-        "piece": "Suite for Flute and Jazz Piano Trio\nII. Sentimentale\nVI. Versatile\nVII. Véloce",
-        "composer": "Claude Bolling",
+        "piece": "Trio in G major, Hoboken XV, No. 15\nI. Allegro\nIII. Finale: Allegro moderato",
+        "composer": "Franz Joseph Haydn",
         "performers": "Karen Koide, flute\nSandy Schniewind, bass\nDebbie Carton, piano "
       },
       {
         "eventId": "120626DC",
-        "piece": "[Piece & Movements TBD]",
-        "composer": "Kenji Bunch",
-        "performers": "Caroline Danielson, violin\nCinnie Chou, violin\nClaire Simpson, viola\nSarah Holt, viola\nKatherine Mckenzie, cello"
+        "piece": "Novelettes, Op. 15\nIII. Interludium in Modo Antico\n\nTricinia #5",
+        "composer": "Alexander Glazunov\n\n\nZoltan Kodaly",
+        "performers": "Donna Maruta, violin\nJane Scantlebury, violin\nPhyllis Kamrin, viola\nHanna Hurley, cello"
       },
       {
         "eventId": "120626DC",
@@ -81,9 +75,21 @@
       },
       {
         "eventId": "120626DC",
-        "piece": "[Piece & Movements TBD]",
-        "composer": "[Composer]",
-        "performers": "Donna Maruta, violin\nJane Scantlebury, violin\nHanna Hurley, cello"
+        "piece": "String Circle\nIII. Slow Ballad\nIV. Scherzo",
+        "composer": "Kenji Bunch",
+        "performers": "Caroline Danielson, violin\nCinnie Chou, violin\nClaire Simpson, viola\nSarah Holt, viola\nKatherine Mckenzie, cello"
+      },
+      {
+        "eventId": "120626DC",
+        "piece": "String Quartet No. 14 in G major, K. 387\nMovement TBD",
+        "composer": "Wolfgang Amadeus Mozart",
+        "performers": "David Goldstein, violin\nBecca Liberman, violin\nBryce Hathaway, viola\nEric Cooper, cello"
+      },
+      {
+        "eventId": "120626DC",
+        "piece": "Cuatro Estaciones Porteñas (The Four Seasons of Buenos Aires)\nI. Verano Porteño (Summer)",
+        "composer": "Astor Piazzolla",
+        "performers": "Eric Lee, violin\nAnne Cademenos, cello\nDebbie Carton, piano"
       }
     ],
     "labels": {
