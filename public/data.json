@@ -63,9 +63,9 @@
       },
       {
         "eventId": "120626DC",
-        "piece": "Novelettes, Op. 15\nIII. Interludium in Modo Antico\n\nTricinia #5",
-        "composer": "Alexander Glazunov\n\n\nZoltan Kodaly",
-        "performers": "Donna Maruta, violin\nJane Scantlebury, violin\nPhyllis Kamrin, viola\nHanna Hurley, cello"
+        "piece": "String Quartet No. 14 in G major, K. 387\nMovement TBD",
+        "composer": "Wolfgang Amadeus Mozart",
+        "performers": "David Goldstein, violin\nBecca Liberman, violin\nBryce Hathaway, viola\nEric Cooper, cello"
       },
       {
         "eventId": "120626DC",
@@ -75,21 +75,27 @@
       },
       {
         "eventId": "120626DC",
+        "piece": "Novelettes, Op. 15\nIII. Interludium in Modo Antico\n\nTricinia #5",
+        "composer": "Alexander Glazunov\n\n\nZoltan Kodaly",
+        "performers": "Donna Maruta, violin\nJane Scantlebury, violin\nPhyllis Kamrin, viola\nHanna Hurley, cello"
+      },
+      {
+        "eventId": "120626DC",
         "piece": "String Circle\nIII. Slow Ballad\nIV. Scherzo",
         "composer": "Kenji Bunch",
         "performers": "Caroline Danielson, violin\nCinnie Chou, violin\nClaire Simpson, viola\nSarah Holt, viola\nKatherine Mckenzie, cello"
       },
       {
         "eventId": "120626DC",
-        "piece": "String Quartet No. 14 in G major, K. 387\nMovement TBD",
-        "composer": "Wolfgang Amadeus Mozart",
-        "performers": "David Goldstein, violin\nBecca Liberman, violin\nBryce Hathaway, viola\nEric Cooper, cello"
-      },
-      {
-        "eventId": "120626DC",
         "piece": "Cuatro Estaciones Porteñas (The Four Seasons of Buenos Aires)\nI. Verano Porteño (Summer)",
         "composer": "Astor Piazzolla",
         "performers": "Eric Lee, violin\nAnne Cademenos, cello\nDebbie Carton, piano"
+      },
+      {
+        "eventId": "022027EB",
+        "piece": "String Quintet in C major, D. 956\nI. Allegro ma non troppo",
+        "composer": "Franz Schubert",
+        "performers": "Luke Terlaak Poot, violin\nAmy Gordon, violin\nAnne Nesbet, viola\nRuth Simon, cello\nRussell Vance, cello"
       }
     ],
     "labels": {
